@@ -1,5 +1,5 @@
 [project]
-name = "uber-price-prediction"
+name = "Uber-rides-predictor"
 version = "0.1.0"
 description = ""
 authors = [
